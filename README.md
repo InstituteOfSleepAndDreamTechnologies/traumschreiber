@@ -13,6 +13,7 @@ Current project status and next todos:
 - [ ] CE/FCC safety checks together with external auditor for CE/FCC regulations (in progress)
 - [ ] further reductions of material costs (in progress)
 - [ ] CE / FCC conformity done
+- [ ] open sourcing the project files 
 - [ ] production of first big batch
 
 
