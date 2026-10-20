@@ -87,7 +87,7 @@ More: [`photos/`](photos/)
 | **Housing** | 3D-printed PETG, approx. 55 × 45 × 17 mm |
 | **Weight** | approx. 41 g including battery and electrode leads |
 | **Firmware** | Zephyr RTOS / nRF Connect SDK, updatable over the air |
-| **App** | [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) for Android (recording, sleep and dream diary) |
+| **App** | [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) for Android (recording, sleep and dream diary). **Note:** a major app update is coming at the end of October 2026; until then we strongly recommend installing the [Nightly version](https://sd20.org/isdt/en/projects/sd20/). |
 
 ## Hardware
 
@@ -116,7 +116,7 @@ Software that works with the Traumschreiber. Built something yourself? Tell us a
 
 | Project | What it does |
 |---|---|
-| [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) | Android app for overnight recordings with the Traumschreiber, sleep and dream diary, and "Cook", an AI assistant with recipes for falling asleep and waking up. |
+| [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) | Android app for overnight recordings with the Traumschreiber, sleep and dream diary, and "Cook", an AI assistant with recipes for falling asleep and waking up. **Note:** a major app update is coming at the end of October 2026; until then we strongly recommend installing the [Nightly version](https://sd20.org/isdt/en/projects/sd20/). |
 | Traumschreiber Mindreading (repository coming soon) | Android app that guesses which of four colours you are thinking of, from your brain's P300 response. For the 3 snap + 1 gold-cup configuration. |
 | Traumschreiber BLE live plot (repository coming soon) | A single Python script that reads the Bluetooth data stream and plots all 8 channels in real time, e.g. for signal checks with a function generator. |
 
