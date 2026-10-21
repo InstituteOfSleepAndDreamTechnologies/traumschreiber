@@ -42,8 +42,8 @@ The Traumschreiber is open hardware in one specific sense: **everyone who uses i
 see, 100 %, how their data comes about.** Which electrode is connected to which amplifier input,
 how the signal is filtered, sampled and stored, what the firmware and the app do with it, and
 exactly which values end up in the raw data you can access. The aim is that nothing is hidden behind
-a black box. This repository starts with the complete schematic; firmware and analysis code are to
-follow.
+a black box. This repository starts with the complete schematic; the analysis code for the
+recordings is in [Traumschreiber_Python_Offline-Data-Analysis](https://github.com/InstituteOfSleepAndDreamTechnologies/Traumschreiber_Python_Offline-Data-Analysis), firmware is to follow.
 
 This transparency is what makes the device useful for its two main purposes: **education** (also
 teaching yourself how sleep, dreams and the brain work) and **research**, where results are only
@@ -121,6 +121,7 @@ Software that works with the Traumschreiber. Built something yourself? Tell us a
 | Project | What it does |
 |---|---|
 | [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) | Android app for overnight recordings with the Traumschreiber, sleep and dream diary, and "Cook", an AI assistant with recipes for falling asleep and waking up. **Note:** a major app update is coming at the end of October 2026; until then we strongly recommend installing the [Nightly version](https://sd20.org/isdt/en/projects/sd20/). |
+| [Offline data analysis](https://github.com/InstituteOfSleepAndDreamTechnologies/Traumschreiber_Python_Offline-Data-Analysis) | Python script that analyses a night straight from the microSD card, without app or internet: AnySleep sleep staging, hypnodensity, hypnogram, spectrogram, battery and light, a raw EEG viewer with arrow-key navigation, and sleep statistics compared with reference values. |
 | Traumschreiber Mindreading (repository coming soon) | Android app that guesses which of four colours you are thinking of, from your brain's P300 response. For the 3 snap + 1 gold-cup configuration. |
 | Traumschreiber BLE live plot (repository coming soon) | A single Python script that reads the Bluetooth data stream and plots all 8 channels in real time, e.g. for signal checks with a function generator. |
 
