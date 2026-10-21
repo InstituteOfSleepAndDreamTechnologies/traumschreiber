@@ -32,6 +32,10 @@ Since 2026 it has been redesigned as a compact forehead device that anyone can u
 revision TS2603 (March 2026) was followed by **TS2607** (July 2026), the version shown here,
 which carries the CE marking.
 
+A comparison of the Traumschreiber with polysomnography (PSG), the gold standard of the sleep lab, using
+whole-night recordings from more than 10 participants, is currently under way and is expected to be completed
+by the end of 2026. The first results look promising.
+
 ## Open hardware, non-commercial on purpose
 
 The Traumschreiber is open hardware in one specific sense: **everyone who uses it should be able to
