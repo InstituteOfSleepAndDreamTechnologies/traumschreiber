@@ -91,7 +91,7 @@ More: [`photos/`](photos/)
 | **Housing** | 3D-printed PETG, approx. 55 × 45 × 17 mm |
 | **Weight** | approx. 41 g including battery and electrode leads |
 | **Firmware** | Zephyr RTOS / nRF Connect SDK, updatable over the air |
-| **App** | [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) for Android (recording, sleep and dream diary). **Note:** a major app update is coming at the end of October 2026; until then we strongly recommend installing the [Nightly version](https://sd20.org/isdt/en/projects/sd20/). |
+| **App** | [sd20 App](https://play.google.com/store/apps/details?id=org.sd20.sd20app) for Android (recording, sleep and dream diary). Early test preview: the app will be rebuilt substantially over the coming weeks to make it more user-friendly and easier for beginners. **Note:** a major app update is coming at the end of October 2026; until then we strongly recommend installing the [Nightly version](https://sd20.org/isdt/en/projects/sd20/). |
 
 ## Hardware
 
